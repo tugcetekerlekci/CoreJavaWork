@@ -1,5 +1,6 @@
 # CoreJavaWork
 
+
 I put my core Java works in this repository and it begins with basic understanding of programming and then explains all the object-oriented
 logic behind the scenes. 
 all the samples codes are running correctly. 
